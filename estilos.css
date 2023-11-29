@@ -1,0 +1,103 @@
+body {
+    background-image: url(./fondos.jpg);
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbar li {
+    list-style: none;
+}
+
+#navbar {
+    padding: 20px;
+}
+
+
+
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    background-color: white;
+
+}
+
+h1{
+    color: black;
+    font-size: 45px;
+    border: 20px;
+    color: black;
+    right: 4%;
+}
+
+h2{
+    border: 20px;
+    color: black
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+    list-style: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+
+}
+
+
+a:hover{
+    color: peru;
+
+}
+
+.fondo{
+background-color: azure; 
+width: 60%;
+margin: 0 auto;
+width: 0 auto;
+
+}
+.QUIENSOY{
+    background-color: lightblue; 
+    width: 60%;
+    margin: 0 auto;
+}
+h2{
+    color: coral;
+}
+h1m{
+    color: red;
+}
+.cont{
+    background-color: lightblue; 
+    width: 60%;
+    margin: 0 auto;
+    width: 0 auto;
+}
+
+.ser{
+    background-color: lightblue; 
+    width: 45%;
+    margin: 0 auto;
+    width: 0 auto;
+}
+footer {
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    box-sizing: border-box
+}
+
+h3 {
+    color: white;
+}
